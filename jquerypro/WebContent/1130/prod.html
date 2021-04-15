@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel ="stylesheet" href="../css/public.css">
+<script src="../js/jquery-3.5.1.min.js"></script>
+<style>
+</style>
+
+<script>
+$(function(){
+	$('#select1').on('change', function(){
+		$('#select2').empty();
+		selvalue = $('#select1 option:selected').val().trim();
+		$.ajax({
+			url:"/jquerypro/ProdController.do",
+			type:'post',
+			data:{"nm": selvalue},
+			success: function(res){
+				code="";
+				$.each(res, function(i, v){
+					code += "<option value='" + v.name + "'>"
+					   + v.name + "</option>";
+				})
+				$('#select2').append(code);
+			},
+			error :function(xhr){
+				alert("상태:" + xhr.status);
+			},
+			dataType: 'json'		
+		})
+	})
+	
+	$('#select2').on('change', function(){
+		opvalue = $(this).val().trim();
+		alert(opvalue);
+		$.ajax({
+			url:'/jquerypro/detail.do',
+			typeType: 'json',
+			type : 'post',
+			data: {"name" : opvalue},
+			success : function(res){
+				code = "<table border='1'>";
+				//$.each(res,function(i,v)){
+				code += "<tr><td>항목</td><td>내용</td></tr>";
+				code += "<tr><td>PROD_ID<td><td>" + res.id + "</td></tr>";
+				code += "<tr><td>PROD_NAME<td><td>" + res.name + "</td></tr>";
+				code += "<tr><td>PROD_LGU<td><td>" + res.lgu + "</td></tr>";
+				code += "<tr><td>PROD_BUYER<td><td>" + res.buyer + "</td></tr>";
+				code += "<tr><td>PROD_COST<td><td>" + res.cost + "</td></tr>";
+				code += "<tr><td>PROD_PRICE<td><td>" + res.price + "</td></tr>";
+				code += "<tr><td>PROD_SALE<td><td>" + res.sale + "</td></tr>";
+				code += "<tr><td>PROD_OUTLINE<td><td>" + res.outline + "</td></tr>";
+				code += "<tr><td>PROD_DETAIL<td><td>" + res.detail + "</td></tr>";
+				//}
+				code += "</table>";
+				$('#result1').append(code);
+			},
+			error: function(xhr){
+				alert("상태:" + xhr.status);
+			}
+			
+		})
+	})
+	
+	
+})
+
+</script>
+
+</head>
+<body>
+
+<div class="box">
+		<h3>제목</h3>
+		내용<br> 
+		<input type="button" value="확인"> <br>
+		<br>
+		<div id="result1">
+		    <select id="select1">
+		    <option value="컴퓨터제품">컴퓨터제품</option>
+		    <option value="전자제품">전자제품</option>
+		    <option value="여성캐주얼">여성캐주얼</option>
+		    <option value="남성캐주얼">남성캐주얼</option>
+		    <option value="피혁잡화">피혁잡화</option>
+		    <option value="화장품">화장품</option>
+		    <option value="음반/CD">음반/CD</option>
+		    <option value="도서">도서</option>
+		    <option value="문구류">문구류</option>
+		    
+		    
+		    </select>
+		<select id="select2">
+		   <option>상위 카테고리를 먼저 선택해 주세요</option>
+		   </select><br><br>
+		   
+		
+		
+		
+		</div>
+		<br>
+	</div>
+</body>
+</html>
+
+
+
+
+
+

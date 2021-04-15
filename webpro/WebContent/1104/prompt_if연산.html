@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="../css/public.css">
+<style>
+div {
+	border: 1px dotted green;
+	height: 40px;
+}
+</style>
+<script>
+        function proc1() {
+		su1 = parseInt(prompt("정수1 입력"));
+		su2 = parseInt(prompt("정수2 입력"));
+		oper = prompt("연산자 입력");
+
+		//document.getElementById('result').value=res;
+
+		/* sum = input1 + input2;
+		sub = input1 - input2;
+		multi = input1 * input2;
+		divide = input1 / input2; */
+
+		/*  res= "input1 :" + input1 + "<br>";
+		 res +="input2 :" + input2 + "<br>";
+		 res +="더하기 :" + sum+ "<br>";
+		 res +="빼기 :" + sub + "<br>";
+		 res +="곱하기 :" + multi + "<br>";
+		 res +="나누기 :" + divide + "<br>";
+		 */
+		
+		 res = "su1 : " + su1 + "<br>";
+		 res += "su2 : " + su2 + "<br>";
+		 res += "oper : " + oper + "<br>"; 
+		 
+		 
+		if (oper == "+") {
+			calc = su1 + su2;
+		} else if (oper == "-") {
+			calc = su1 - su2;
+		} else if (oper == "*") {
+			calc = su1 * su2;
+		} else if (oper == "/") {
+			calc = su1 / su1;
+		}
+		 
+		res += "결과: " + su1 + oper + su2 + " = " + calc;
+//백틱.
+        res += ` 결과:  ${su1} ${oper} ${su2}  = ${calc} ` ;
+		
+        result1 = document.getElementById('result');
+		result1.innerHTML = res;
+		result1.style.fontSize = "1.5em";
+
+	}
+</script>
+</head>
+<body>
+	<pre>
+확인 버튼 클릭하면 proc1()함수 호출
+두개의 수와 연산자 하나를 입력 받는다. -prompt이용
+
+연산자의 종류에 따라서 각 연산을 수행한다. 
+
+백틱, backquote, backtic, grave accent,
+템플릿 리터럴: 
+script에서 backtic(`)을 사용하여 문자열을 표현한 것을 템플릿 
+리터럴 이라고 한다. 
+일반 문자열은 각 문자열("",'')과 변수 사이를  +기호를 사용하여 문자열을 구성한다. 
+`문자열  ${변수}  문자열  문자열 ${변수}`
+ 
+
+
+</pre>
+	<input type="button" value="확인" onclick="proc1()">
+	<br>
+	<br>
+
+	<div id="result"></div>
+</body>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel ="stylesheet" href="../css/public.css">
+<style>
+
+label{
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+} 
+form{
+border: 1px solid gray;
+}
+
+</style>
+<script>
+
+  function proc1(){
+  
+  //ff = document.getElementById('ff');
+ // ff = document.querySelector('#ff');
+  
+  vname = document.getElementById('name');
+  addr = document.getElementById('addr');
+  bir = document.getElementById('birthday');
+  mail= document.getElementById('email');
+  id= document.getElementById('userid');
+  tel= document.getElementById('phone');
+  pass= document.getElementById('pass');
+  
+ 
+	  nvalue = vname.value.trim().length;
+	  avalue = addr.value.trim().length;
+	  bvalue = bir.value.trim().length;
+	  mvalue = mail.value.trim().length;
+	  ivalue = id.value.trim().length;
+	  tvalue = tel.value.trim().length; 
+	  pvalue = pass.value.trim().length; 
+	
+	  
+	  // 이름 공백
+	  if(nvalue <1) {
+		  alert("이름 입력");
+		  return false;
+	  }
+	  // 이름 길이 2~4 
+	  if(nvalue < 2 || nvalue >4){
+		  alert("이름 2~4사이로 입력");
+		  return false; 
+	  }
+	  
+	  // 정규식 체크 - test()
+	  // 정규식
+	  nameReg =/^[가-힣]{2,4}$/;
+	  if(!(nameReg.test(vname.value))){
+		  alert("이름 형식 오류")
+		  return false; 
+	  }
+	  
+	  // 주소 공백
+	  
+	  
+
+	  if(avalue <1) {
+		  alert("주소 입력");
+		  return false;
+	  }
+	  
+	  // 생일 공백
+	
+
+	  if(bvalue <1) {
+		  alert("생일 입력");
+		  return false;
+	  }
+	  
+        // 아이디 공백
+	  if(ivalue <1) {
+		  alert("아이디 입력");
+		  return false;
+	  }
+        // 아이디 길이 6~8
+        if(ivalue < 6 || ivalue > 8){
+        	alert("아이디 6~8");
+        	return false;
+        }
+	
+        // 아이디 정규식 - 영문 소문자로 시작
+        idReg = /^[a-z][a-zA-Z0-9]{5,7}$/
+        if(!(idReg.test(id.value))){
+        	alert("아이디 형식 오류")
+        	return false;
+        } 
+        
+        
+        
+        // 비밀번호 공백
+         if(pvalue <1) {
+		  alert("비밀번호 입력");
+		  return false;
+	  }
+        // 비밀번호 길이 
+         if(pvalue < 8 || pvalue > 15){
+         	alert("비밀번호 8~15");
+         	return false;
+         } 
+        
+        // 비밀번호 정규식
+        // ?기준 문자= : 기준 문자를 기준으로 해서 전방(앞의)탐색으로 검색한다. 
+ 	    //  a = http://www.naver.com  https://www.daum.net
+        // http인지 https인지 비교 - 해당 문자를 직접 가져온다. -value.match(reg)
+        // mtch()수행 후 해당 문자가 있으면 문자를 가져오고 없으면 null을 리턴한다. 
+     /*    a = "https://www.naver.com";
+        reg =  /\w+(?=:)/  
+        b = a.match(reg)
+        if(b == "http"){
+        	alert("http 요청입니다")
+        }else if( b == "https"){
+        	alert("https 요청입니다")
+        } */
+        // pass 정규식 - 전방 탐색 응용 - 영문소문자대문자숫자특수문자가 반드시 한개 이상씩 포함 
+        passReg = /^(?=.*[a-z])(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&]).{8,15}$/
+        if(!(passReg.test(pass.value))){
+        	alert("비밀번호 형식 오류");
+        	return false;
+        }
+        
+      
+        // 메일 공백
+
+  	  if(mvalue <1) {
+  		  alert("이메일 입력");
+  		  return false;
+  	  }
+  	  
+  	  // 메일 정규식 abc-123@kk123.com , ASDFas12@hgg.co.kr
+  	  mailReg = /^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+(\.[a-zA-Z]+){1,2}$/
+  	  if(!(mailReg.test(mail.value))){
+  		  alert("이메일 형식오류");
+  		  return false;
+  	  }
+        
+        // 전화번호 공백
+        
+	  if(tvalue <1) {
+		  alert("전화번호 입력");
+		  return false;
+	  }
+	 // 전화번호 정규식
+	 telReg = /\d{3}-\d{4}-\d{4}/
+        if(!(telReg.test(tel.value))){
+        	alert("전화번호 형식 오류");
+        	return false;
+        } 
+        
+	   alert(" 성공  "); 
+  }
+</script>
+</head>
+<body>
+
+<div class="box">
+		<h3>데이터 길이/공백 검증</h3>
+		trim() : 앞뒤 공백을 제거한다.<br>
+		length() <br> 
+		<h3>정규식: 일정한 규칙에 따라서 데이터를 입력한다.</h3>
+		정규식 패턴.test(입력값) - return 결과형 true/false<br>
+		
+		<h3>회원가입</h3>
+    <form id= "ff" action="test.jsp" method="post" onsubmit="return false;">
+	<label>이름</label><br>
+	<input type='text' id='name' ><br>
+	<label>주소</label><br> 
+	<input type='text' id='addr' ><br>
+	<label>생일</label><br>
+	 <input type='date' id='birthday' ><br>
+	<label>아이디(6-8 문자):</label><br>
+	<input type='text' id='userid' ><br>
+    <label> 비밀번호</label> <br>  
+    <input type='password' id='pass'><br>
+	<label>이메일</label><br>
+	<input type='email' id='email' ><br>
+	<label>휴대폰</label><br>
+	<input type='tel' id='phone' ><br>
+	<input type='button' onclick ="proc1()" value='확인' ><br>
+</form>
+
+		<br>
+	</div>
+</body>
+</html>

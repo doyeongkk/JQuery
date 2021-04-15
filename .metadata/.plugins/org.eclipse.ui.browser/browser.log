@@ -1,0 +1,745 @@
+
+10월 22, 2020 12:13:02.39 NEW SESSION
+10월 22, 2020 12:13:02.39 [6532:10656:1022/121302.393:ERROR:device_event_log_impl.cc(208)] [12:13:02.392] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 22, 2020 12:13:32.94 [9332:12996:1022/121332.947:ERROR:device_event_log_impl.cc(208)] [12:13:32.947] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 22, 2020 12:23:26.56 [1022/122326.568:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+10월 23, 2020 09:04:03.92 NEW SESSION
+10월 23, 2020 09:04:03.92 [5248:2904:1023/090403.919:ERROR:device_event_log_impl.cc(208)] [09:04:03.918] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 23, 2020 09:13:58.32 [1023/091358.326:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+10월 26, 2020 11:37:50.66 NEW SESSION
+10월 26, 2020 11:37:50.66 [10500:3280:1026/113750.658:ERROR:device_event_log_impl.cc(208)] [11:37:50.658] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 26, 2020 11:38:19.80 [13308:9448:1026/113819.804:ERROR:device_event_log_impl.cc(208)] [11:38:19.804] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 26, 2020 11:38:36.74 [2688:10160:1026/113836.747:ERROR:device_event_log_impl.cc(208)] [11:38:36.747] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 26, 2020 11:48:26.26 [1026/114826.266:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+10월 26, 2020 12:00:20.84 [12004:9328:1026/120020.843:ERROR:device_event_log_impl.cc(208)] [12:00:20.843] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 26, 2020 12:10:18.37 [1026/121018.372:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+10월 27, 2020 09:00:23.67 NEW SESSION
+10월 27, 2020 09:00:23.67 [7960:13652:1027/090023.678:ERROR:device_event_log_impl.cc(208)] [09:00:23.677] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 27, 2020 09:10:19.71 [1027/091019.714:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+10월 27, 2020 11:10:27.82 [7960:13652:1027/111027.827:ERROR:CONSOLE(1)] "URIError: URI malformed URIError: URI malformed
+10월 27, 2020 11:10:27.83     at decodeURI (<anonymous>)
+10월 27, 2020 11:10:27.84     at ae._createBinding (devtools://devtools/bundled/persistence/persistence.js:1:34646)
+10월 27, 2020 11:10:27.84     at ae._computeNetworkStatus (devtools://devtools/bundled/persistence/persistence.js:1:32358)
+10월 27, 2020 11:10:27.85     at ae._onUISourceCodeAdded (devtools://devtools/bundled/persistence/persistence.js:1:31471)
+10월 27, 2020 11:10:27.85     at devtools://devtools/bundled/persistence/persistence.js:1:29584
+10월 27, 2020 11:10:27.86     at m.dispatchEventToListeners (devtools://devtools/bundled/common/common.js:1:14803)
+10월 27, 2020 11:10:27.86     at P.addUISourceCode (devtools://devtools/bundled/workspace/workspace.js:1:5162)
+10월 27, 2020 11:10:27.87     at P.addUISourceCodeWithProvider (devtools://devtools/bundled/bindings/bindings.js:1:7942)
+10월 27, 2020 11:10:27.87     at new ke (devtools://devtools/bundled/bindings/bindings.js:1:44889)
+10월 27, 2020 11:10:27.87     at ye._resourceAdded (devtools://devtools/bundled/bindings/bindings.js:1:43981)", source: devtools://devtools/bundled/host/host.js (1)
+10월 27, 2020 11:10:27.93 [7960:13652:1027/111027.939:ERROR:CONSOLE(1)] "URIError: URI malformed URIError: URI malformed
+10월 27, 2020 11:10:27.94     at decodeURI (<anonymous>)
+10월 27, 2020 11:10:27.95     at ae._createBinding (devtools://devtools/bundled/persistence/persistence.js:1:34646)
+10월 27, 2020 11:10:27.95     at ae._computeNetworkStatus (devtools://devtools/bundled/persistence/persistence.js:1:32358)
+10월 27, 2020 11:10:27.96     at ae._onUISourceCodeAdded (devtools://devtools/bundled/persistence/persistence.js:1:31471)
+10월 27, 2020 11:10:27.97     at devtools://devtools/bundled/persistence/persistence.js:1:29584
+10월 27, 2020 11:10:27.98     at m.dispatchEventToListeners (devtools://devtools/bundled/common/common.js:1:14803)
+10월 27, 2020 11:10:27.98     at P.addUISourceCode (devtools://devtools/bundled/workspace/workspace.js:1:5162)
+10월 27, 2020 11:10:27.99     at P.addUISourceCodeWithProvider (devtools://devtools/bundled/bindings/bindings.js:1:7942)
+10월 27, 2020 11:10:28.00     at new ke (devtools://devtools/bundled/bindings/bindings.js:1:44889)
+10월 27, 2020 11:10:28.00     at ye._resourceAdded (devtools://devtools/bundled/bindings/bindings.js:1:43981)", source: devtools://devtools/bundled/host/host.js (1)
+10월 27, 2020 11:10:28.01 [7960:13652:1027/111027.943:ERROR:CONSOLE(1)] "URIError: URI malformed URIError: URI malformed
+10월 27, 2020 11:10:28.01     at decodeURI (<anonymous>)
+10월 27, 2020 11:10:28.02     at ae._createBinding (devtools://devtools/bundled/persistence/persistence.js:1:34646)
+10월 27, 2020 11:10:28.02     at ae._computeNetworkStatus (devtools://devtools/bundled/persistence/persistence.js:1:32358)
+10월 27, 2020 11:10:28.02     at ae._onUISourceCodeAdded (devtools://devtools/bundled/persistence/persistence.js:1:31471)
+10월 27, 2020 11:10:28.03     at devtools://devtools/bundled/persistence/persistence.js:1:29584
+10월 27, 2020 11:10:28.03     at m.dispatchEventToListeners (devtools://devtools/bundled/common/common.js:1:14803)
+10월 27, 2020 11:10:28.04     at P.addUISourceCode (devtools://devtools/bundled/workspace/workspace.js:1:5162)
+10월 27, 2020 11:10:28.04     at P.addUISourceCodeWithProvider (devtools://devtools/bundled/bindings/bindings.js:1:7942)
+10월 27, 2020 11:10:28.05     at new ke (devtools://devtools/bundled/bindings/bindings.js:1:44889)
+10월 27, 2020 11:10:28.05     at ye._resourceAdded (devtools://devtools/bundled/bindings/bindings.js:1:43981)", source: devtools://devtools/bundled/host/host.js (1)
+10월 27, 2020 11:10:28.06 [7960:13652:1027/111027.946:ERROR:CONSOLE(1)] "URIError: URI malformed URIError: URI malformed
+10월 27, 2020 11:10:28.06     at decodeURI (<anonymous>)
+10월 27, 2020 11:10:28.07     at ae._createBinding (devtools://devtools/bundled/persistence/persistence.js:1:34646)
+10월 27, 2020 11:10:28.07     at ae._computeNetworkStatus (devtools://devtools/bundled/persistence/persistence.js:1:32358)
+10월 27, 2020 11:10:28.08     at ae._onUISourceCodeAdded (devtools://devtools/bundled/persistence/persistence.js:1:31471)
+10월 27, 2020 11:10:28.08     at devtools://devtools/bundled/persistence/persistence.js:1:29584
+10월 27, 2020 11:10:28.09     at m.dispatchEventToListeners (devtools://devtools/bundled/common/common.js:1:14803)
+10월 27, 2020 11:10:28.10     at P.addUISourceCode (devtools://devtools/bundled/workspace/workspace.js:1:5162)
+10월 27, 2020 11:10:28.10     at P.addUISourceCodeWithProvider (devtools://devtools/bundled/bindings/bindings.js:1:7942)
+10월 27, 2020 11:10:28.11     at new ke (devtools://devtools/bundled/bindings/bindings.js:1:44889)
+10월 27, 2020 11:10:28.11     at ye._resourceAdded (devtools://devtools/bundled/bindings/bindings.js:1:43981)", source: devtools://devtools/bundled/host/host.js (1)
+
+10월 30, 2020 09:04:59.52 NEW SESSION
+10월 30, 2020 09:04:59.53 [5128:9060:1030/090459.528:ERROR:device_event_log_impl.cc(208)] [09:04:59.529] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+10월 30, 2020 09:14:55.03 [1030/091455.030:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 02, 2020 09:09:11.98 NEW SESSION
+11월 02, 2020 09:09:11.98 [6200:7392:1102/090911.985:ERROR:device_event_log_impl.cc(208)] [09:09:11.985] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 02, 2020 09:19:05.33 [1102/091905.328:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 02, 2020 09:52:39.92 [13068:2480:1102/095239.924:ERROR:device_event_log_impl.cc(208)] [09:52:39.924] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 02, 2020 10:02:34.51 [1102/100234.517:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 03, 2020 08:49:29.20 NEW SESSION
+11월 03, 2020 08:49:29.20 [12668:12352:1103/084929.201:ERROR:device_event_log_impl.cc(208)] [08:49:29.200] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 03, 2020 08:59:19.56 [1103/085919.560:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 03, 2020 10:17:34.72 [9580:3508:1103/101734.728:ERROR:device_event_log_impl.cc(208)] [10:17:34.729] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 03, 2020 10:27:29.32 [1103/102729.321:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 04, 2020 08:53:55.61 NEW SESSION
+11월 04, 2020 08:53:55.61 [10648:12256:1104/085355.609:ERROR:device_event_log_impl.cc(208)] [08:53:55.609] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 04, 2020 09:03:46.67 [1104/090346.667:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 04, 2020 12:19:57.43 [13876:12452:1104/121957.433:ERROR:device_event_log_impl.cc(208)] [12:19:57.433] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 04, 2020 12:29:56.02 [1104/122956.021:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 04, 2020 18:11:52.34 NEW SESSION
+11월 04, 2020 18:11:52.34 [10388:14168:1104/181152.347:ERROR:device_event_log_impl.cc(208)] [18:11:52.347] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 04, 2020 18:15:42.93 [4284:1360:1104/181542.932:ERROR:device_event_log_impl.cc(208)] [18:15:42.932] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 04, 2020 18:25:37.45 [1104/182537.454:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 04, 2020 18:29:46.75 [12712:4884:1104/182946.754:ERROR:device_event_log_impl.cc(208)] [18:29:46.753] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 04, 2020 18:39:43.26 [1104/183943.267:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 04, 2020 18:49:19.01 [9708:10828:1104/184919.019:ERROR:device_event_log_impl.cc(208)] [18:49:19.019] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 04, 2020 18:59:10.58 [1104/185910.585:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 05, 2020 09:04:07.53 NEW SESSION
+11월 05, 2020 09:04:07.53 [12348:2560:1105/090407.537:ERROR:device_event_log_impl.cc(208)] [09:04:07.537] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 05, 2020 09:06:20.55 [13100:7760:1105/090620.554:ERROR:device_event_log_impl.cc(208)] [09:06:20.554] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 05, 2020 09:16:19.00 [1105/091619.004:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 05, 2020 09:25:12.31 [984:13064:1105/092512.309:ERROR:device_event_log_impl.cc(208)] [09:25:12.309] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 05, 2020 09:35:04.93 [1105/093504.931:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 05, 2020 10:08:57.73 [14324:7792:1105/100857.738:ERROR:device_event_log_impl.cc(208)] [10:08:57.738] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 05, 2020 10:18:49.32 [1105/101849.326:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 05, 2020 19:19:54.63 NEW SESSION
+11월 05, 2020 19:19:54.63 [4616:2880:1105/191954.631:ERROR:device_event_log_impl.cc(208)] [19:19:54.631] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 05, 2020 19:29:53.28 [1105/192953.279:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 05, 2020 19:55:06.92 [4616:2880:1105/195506.923:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.038 s for first_image_paint 0.029 s
+11월 05, 2020 19:55:07.72 [4616:2880:1105/195507.720:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.038 s for first_image_paint 0.029 s
+11월 05, 2020 21:53:24.08 [11116:11416:1105/215324.084:ERROR:device_event_log_impl.cc(208)] [21:53:24.084] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 06, 2020 08:41:44.83 NEW SESSION
+11월 06, 2020 08:41:44.83 [6280:13668:1106/084144.836:ERROR:device_event_log_impl.cc(208)] [08:41:44.836] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 08:42:49.65 [5516:776:1106/084249.650:ERROR:device_event_log_impl.cc(208)] [08:42:49.650] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 08:45:06.19 [13896:12384:1106/084506.195:ERROR:device_event_log_impl.cc(208)] [08:45:06.195] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 08:55:04.86 [1106/085504.863:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 09:01:18.92 [4580:5644:1106/090118.926:ERROR:device_event_log_impl.cc(208)] [09:01:18.926] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 09:04:30.35 [13120:5788:1106/090430.359:ERROR:device_event_log_impl.cc(208)] [09:04:30.358] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 09:14:20.68 [1106/091420.687:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 10:36:45.22 [13120:5788:1106/103645.227:ERROR:device_event_log_impl.cc(208)] [10:36:45.228] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 11:01:28.00 [7860:9196:1106/110128.000:ERROR:device_event_log_impl.cc(208)] [11:01:28.000] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 11:11:17.29 [1106/111117.297:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 13:09:12.75 [7860:12656:1106/130912.750:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+11월 06, 2020 15:05:58.38 NEW SESSION
+11월 06, 2020 15:05:58.38 [3816:7708:1106/150558.380:ERROR:device_event_log_impl.cc(208)] [15:05:58.380] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 15:15:55.31 [1106/151555.315:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 15:28:13.25 [11868:1968:1106/152813.251:ERROR:device_event_log_impl.cc(208)] [15:28:13.251] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 15:32:19.70 [3520:8172:1106/153219.704:ERROR:device_event_log_impl.cc(208)] [15:32:19.704] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 15:42:13.00 [1106/154213.008:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 19:57:24.45 [12860:9068:1106/195724.459:ERROR:device_event_log_impl.cc(208)] [19:57:24.459] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 20:04:30.19 [13404:9204:1106/200430.197:ERROR:device_event_log_impl.cc(208)] [20:04:30.197] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 20:14:26.59 [1106/201426.590:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 20:21:25.81 [3080:1260:1106/202125.813:ERROR:device_event_log_impl.cc(208)] [20:21:25.813] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 20:26:35.80 [11388:5636:1106/202635.808:ERROR:device_event_log_impl.cc(208)] [20:26:35.807] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 20:26:59.03 [7304:10976:1106/202659.030:ERROR:device_event_log_impl.cc(208)] [20:26:59.031] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 20:33:15.59 [1480:2300:1106/203315.590:ERROR:device_event_log_impl.cc(208)] [20:33:15.590] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 20:43:11.95 [1106/204311.950:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 21:18:43.49 [13652:4024:1106/211843.497:ERROR:device_event_log_impl.cc(208)] [21:18:43.498] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 06, 2020 21:28:36.73 [1106/212836.735:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 06, 2020 21:42:33.35 [3348:12780:1106/214233.353:ERROR:device_event_log_impl.cc(208)] [21:42:33.353] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 06, 2020 21:58:27.89 NEW SESSION
+11월 06, 2020 21:58:27.89 [10572:7648:1106/215827.892:ERROR:device_event_log_impl.cc(208)] [21:58:27.892] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 07, 2020 10:32:17.13 NEW SESSION
+11월 07, 2020 10:32:17.13 [7312:4456:1107/103217.132:ERROR:device_event_log_impl.cc(208)] [10:32:17.132] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 10:42:09.88 [1107/104209.882:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 07, 2020 10:42:29.31 [8368:7992:1107/104229.309:ERROR:device_event_log_impl.cc(208)] [10:42:29.309] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 10:43:27.27 [9472:12988:1107/104327.279:ERROR:device_event_log_impl.cc(208)] [10:43:27.278] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 10:43:44.96 [8068:9872:1107/104344.968:ERROR:device_event_log_impl.cc(208)] [10:43:44.967] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 10:53:43.31 [1107/105343.313:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 07, 2020 10:55:22.69 [13108:4156:1107/105522.689:ERROR:device_event_log_impl.cc(208)] [10:55:22.689] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 10:55:43.62 [5668:3800:1107/105543.629:ERROR:device_event_log_impl.cc(208)] [10:55:43.630] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 10:57:42.65 [6344:2656:1107/105742.658:ERROR:device_event_log_impl.cc(208)] [10:57:42.658] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 11:02:04.96 [9420:5444:1107/110204.959:ERROR:device_event_log_impl.cc(208)] [11:02:04.959] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 07, 2020 11:28:56.52 NEW SESSION
+11월 07, 2020 11:28:56.52 [12120:5236:1107/112856.519:ERROR:device_event_log_impl.cc(208)] [11:28:56.519] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 11:37:24.23 [7552:8308:1107/113724.234:ERROR:device_event_log_impl.cc(208)] [11:37:24.235] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 11:47:13.55 [1107/114713.550:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 07, 2020 12:09:41.33 [10192:12652:1107/120941.333:ERROR:device_event_log_impl.cc(208)] [12:09:41.332] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 12:12:05.01 [10788:268:1107/121205.010:ERROR:device_event_log_impl.cc(208)] [12:12:05.010] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 12:13:56.09 [12096:9924:1107/121356.095:ERROR:device_event_log_impl.cc(208)] [12:13:56.095] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 12:23:45.47 [1107/122345.478:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 07, 2020 12:46:02.09 NEW SESSION
+11월 07, 2020 12:46:02.09 [2176:11088:1107/124602.096:ERROR:device_event_log_impl.cc(208)] [12:46:02.096] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 07, 2020 12:55:50.44 [1107/125550.445:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 09, 2020 08:33:31.54 NEW SESSION
+11월 09, 2020 08:33:31.54 [15024:4644:1109/083331.539:ERROR:device_event_log_impl.cc(208)] [08:33:31.539] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 09, 2020 08:43:20.67 [1109/084320.669:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 09, 2020 08:45:02.10 [2916:100:1109/084502.103:ERROR:device_event_log_impl.cc(208)] [08:45:02.103] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 09, 2020 08:55:01.67 [1109/085501.674:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 09, 2020 09:02:56.01 [15104:11244:1109/090256.017:ERROR:device_event_log_impl.cc(208)] [09:02:56.017] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 09, 2020 09:12:48.60 [1109/091248.600:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 09, 2020 20:19:37.87 [9332:9840:1109/201937.872:ERROR:device_event_log_impl.cc(208)] [20:19:37.872] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 09, 2020 20:20:00.46 [5940:7136:1109/202000.469:ERROR:device_event_log_impl.cc(208)] [20:20:00.470] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 09, 2020 20:26:00.00 [6400:384:1109/202600.005:ERROR:device_event_log_impl.cc(208)] [20:26:00.006] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 09, 2020 20:35:50.63 [1109/203550.630:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 10, 2020 09:05:16.21 NEW SESSION
+11월 10, 2020 09:05:16.21 [6692:12536:1110/090516.216:ERROR:cache_util_win.cc(20)] Unable to move the cache: 액세스가 거부되었습니다. (0x5)
+11월 10, 2020 09:05:16.25 [6692:12536:1110/090516.216:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\PC-10\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\PC-10\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_000
+11월 10, 2020 09:05:16.25 [6692:12536:1110/090516.216:ERROR:disk_cache.cc(184)] Unable to create cache
+11월 10, 2020 09:05:16.26 [6692:12536:1110/090516.216:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+11월 10, 2020 09:05:16.73 기존 브라우저 세션에서 여는 중입니다.
+11월 10, 2020 09:05:26.83 [6692:6344:1110/090526.835:ERROR:device_event_log_impl.cc(208)] [09:05:26.835] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 10, 2020 09:15:15.87 [1110/091515.876:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 11, 2020 09:11:03.68 NEW SESSION
+11월 11, 2020 09:11:03.68 [9972:13712:1111/091103.686:ERROR:device_event_log_impl.cc(208)] [09:11:03.687] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 11, 2020 09:20:55.09 [1111/092055.095:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 12, 2020 09:01:36.12 NEW SESSION
+11월 12, 2020 09:01:36.12 [7476:10572:1112/090136.112:ERROR:device_event_log_impl.cc(208)] [09:01:36.113] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 12, 2020 09:11:31.28 [1112/091131.285:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 12, 2020 09:14:51.02 [7476:10572:1112/091451.020:ERROR:CONSOLE(54)] "Uncaught Error: Da`https://ogs.google.com`https://accounts.google.com", source: chrome://new-tab-page/ (54)
+11월 12, 2020 09:14:51.02 [7476:10572:1112/091451.020:ERROR:CONSOLE(54)] "Uncaught Error: Da`https://ogs.google.com`https://accounts.google.com", source: chrome://new-tab-page/ (54)
+11월 12, 2020 09:26:12.44 [2448:8308:1112/092612.446:ERROR:device_event_log_impl.cc(208)] [09:26:12.446] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 12, 2020 09:36:03.06 [1112/093603.066:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 12, 2020 12:28:06.32 [2448:8308:1112/122806.324:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint (unset) for first_image_paint 0.058 s
+
+11월 16, 2020 08:56:12.94 NEW SESSION
+11월 16, 2020 08:56:12.94 [792:12040:1116/085612.940:ERROR:device_event_log_impl.cc(208)] [08:56:12.940] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 16, 2020 09:06:06.95 [1116/090606.950:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 16, 2020 10:05:36.85 [792:12040:1116/100536.856:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+11월 16, 2020 10:23:18.49 [792:12040:1116/102318.491:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+11월 16, 2020 12:16:47.81 [792:1232:1116/121647.817:ERROR:socket_stream.cc(219)] Closing stream with result -2
+
+11월 16, 2020 19:32:04.45 NEW SESSION
+11월 16, 2020 19:32:04.45 [7832:8748:1116/193204.448:ERROR:device_event_log_impl.cc(208)] [19:32:04.448] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 17, 2020 08:59:23.79 NEW SESSION
+11월 17, 2020 08:59:23.79 [11208:7964:1117/085923.796:ERROR:device_event_log_impl.cc(208)] [08:59:23.797] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 17, 2020 09:09:14.85 [1117/090914.854:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 17, 2020 09:16:58.63 [11208:9668:1117/091658.636:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+
+11월 18, 2020 08:49:54.75 NEW SESSION
+11월 18, 2020 08:49:54.75 [3844:1384:1118/084954.752:ERROR:device_event_log_impl.cc(208)] [08:49:54.753] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 18, 2020 08:59:48.73 [1118/085948.737:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 18, 2020 11:16:27.17 [10476:5612:1118/111627.177:ERROR:device_event_log_impl.cc(208)] [11:16:27.177] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 18, 2020 11:26:19.74 [1118/112619.745:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 18, 2020 18:58:45.06 [7560:9280:1118/185845.067:ERROR:device_event_log_impl.cc(208)] [18:58:45.066] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 18, 2020 19:08:44.62 [1118/190844.625:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 19, 2020 09:05:38.73 NEW SESSION
+11월 19, 2020 09:05:38.73 [10380:11204:1119/090538.736:ERROR:device_event_log_impl.cc(208)] [09:05:38.736] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 19, 2020 09:15:28.72 [1119/091528.722:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 19, 2020 12:34:03.98 [10380:3536:1119/123403.985:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+11월 23, 2020 09:05:13.54 NEW SESSION
+11월 23, 2020 09:05:13.54 [6608:7680:1123/090513.544:ERROR:device_event_log_impl.cc(208)] [09:05:13.544] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 23, 2020 09:15:03.48 [1123/091503.479:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 23, 2020 13:08:08.39 [11504:11488:1123/130808.394:ERROR:device_event_log_impl.cc(208)] [13:08:08.394] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 23, 2020 13:11:39.66 [11504:11488:1123/131139.662:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint (unset) for first_image_paint 0.026 s
+11월 23, 2020 13:11:40.66 [11504:11488:1123/131140.663:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.04 s for first_image_paint 0.026 s
+11월 23, 2020 13:11:41.02 [11504:11488:1123/131141.026:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.04 s for first_image_paint 0.026 s
+11월 23, 2020 13:17:58.95 [1123/131758.951:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 23, 2020 13:36:07.55 [10664:6304:1123/133607.552:ERROR:device_event_log_impl.cc(208)] [13:36:07.551] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 23, 2020 13:45:58.13 [1123/134558.132:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 23, 2020 19:05:01.29 [11444:6708:1123/190501.291:ERROR:device_event_log_impl.cc(208)] [19:05:01.291] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 23, 2020 19:14:58.80 [1123/191458.808:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 23, 2020 19:24:35.20 [1956:9844:1123/192435.206:ERROR:device_event_log_impl.cc(208)] [19:24:35.205] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 23, 2020 19:25:03.52 [3560:1636:1123/192503.524:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:04.60 [3560:1636:1123/192504.608:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:05.59 [3560:1636:1123/192505.599:ERROR:device_event_log_impl.cc(208)] [19:25:05.599] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 23, 2020 19:25:05.75 [3560:1636:1123/192505.754:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:06.87 [3560:1636:1123/192506.873:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:07.88 [3560:1636:1123/192507.884:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:09.20 [3560:1636:1123/192509.199:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:10.88 [3560:1636:1123/192510.883:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:13.88 [3560:1636:1123/192513.881:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:15.97 [3560:1636:1123/192515.977:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:18.88 [3560:1636:1123/192518.880:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:22.47 [3560:1636:1123/192522.471:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:27.08 [3560:1636:1123/192527.088:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:32.88 [3560:1636:1123/192532.886:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:41.33 [3560:1636:1123/192541.338:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:44.37 [3560:1636:1123/192544.378:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:47.33 [3560:1636:1123/192547.335:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:51.33 [3560:1636:1123/192551.331:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:25:53.34 [3560:1636:1123/192553.346:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:26:00.33 [3560:1636:1123/192600.336:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:26:01.37 [3560:1636:1123/192601.370:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:26:18.33 [3560:1636:1123/192618.331:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:26:50.33 [3560:1636:1123/192650.335:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.254 s for first_image_paint 0.229 s
+11월 23, 2020 19:56:08.95 [12992:1944:1123/195608.953:ERROR:device_event_log_impl.cc(208)] [19:56:08.953] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 24, 2020 09:02:50.43 NEW SESSION
+11월 24, 2020 09:02:50.43 [7688:2540:1124/090250.429:ERROR:device_event_log_impl.cc(208)] [09:02:50.430] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 24, 2020 09:03:37.16 [4244:2656:1124/090337.163:ERROR:device_event_log_impl.cc(208)] [09:03:37.162] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 24, 2020 09:13:27.64 [1124/091327.644:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 24, 2020 18:12:06.37 [6696:7180:1124/181206.371:ERROR:device_event_log_impl.cc(208)] [18:12:06.371] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 24, 2020 18:12:22.05 [11624:9864:1124/181222.058:ERROR:device_event_log_impl.cc(208)] [18:12:22.058] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 24, 2020 18:13:52.36 [4468:8476:1124/181352.361:ERROR:device_event_log_impl.cc(208)] [18:13:52.361] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 25, 2020 09:02:43.20 NEW SESSION
+11월 25, 2020 09:02:43.20 [9344:12600:1125/090243.204:ERROR:device_event_log_impl.cc(208)] [09:02:43.204] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 25, 2020 09:12:38.15 [1125/091238.153:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 25, 2020 11:52:40.99 [9344:8392:1125/115240.991:ERROR:socket_stream.cc(219)] Closing stream with result -2
+11월 25, 2020 11:52:44.17 [9344:8392:1125/115244.178:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+11월 25, 2020 11:53:11.43 [9344:8392:1125/115311.431:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+11월 26, 2020 09:12:56.53 NEW SESSION
+11월 26, 2020 09:12:56.53 [10832:12320:1126/091256.531:ERROR:device_event_log_impl.cc(208)] [09:12:56.532] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 26, 2020 09:22:52.51 [1126/092252.509:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 27, 2020 10:17:07.56 NEW SESSION
+11월 27, 2020 10:17:07.56 [2704:2164:1127/101707.563:ERROR:device_event_log_impl.cc(208)] [10:17:07.563] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 27, 2020 10:26:57.09 [1127/102657.093:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 27, 2020 17:47:46.33 NEW SESSION
+11월 27, 2020 17:47:46.33 [8304:784:1127/174746.328:ERROR:device_event_log_impl.cc(208)] [17:47:46.328] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 27, 2020 17:48:55.08 [7460:11068:1127/174855.084:ERROR:device_event_log_impl.cc(208)] [17:48:55.084] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 27, 2020 17:58:46.66 [1127/175846.664:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 27, 2020 18:36:12.87 [8288:3328:1127/183612.872:ERROR:device_event_log_impl.cc(208)] [18:36:12.872] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 27, 2020 18:46:01.42 [1127/184601.419:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 27, 2020 18:59:21.02 [10808:1112:1127/185921.028:ERROR:device_event_log_impl.cc(208)] [18:59:21.028] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 27, 2020 19:27:58.83 NEW SESSION
+11월 27, 2020 19:27:58.83 [5880:7540:1127/192758.828:ERROR:device_event_log_impl.cc(208)] [19:27:58.829] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 30, 2020 09:01:48.45 NEW SESSION
+11월 30, 2020 09:01:48.45 [4044:4684:1130/090148.449:ERROR:device_event_log_impl.cc(208)] [09:01:48.448] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+11월 30, 2020 09:07:01.81 NEW SESSION
+11월 30, 2020 09:07:01.81 [6260:4712:1130/090701.818:ERROR:device_event_log_impl.cc(208)] [09:07:01.818] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 30, 2020 09:16:57.34 [1130/091657.339:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 30, 2020 10:41:09.60 NEW SESSION
+11월 30, 2020 10:41:09.60 [11468:9680:1130/104109.607:ERROR:device_event_log_impl.cc(208)] [10:41:09.607] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 30, 2020 10:51:03.10 [1130/105103.108:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 30, 2020 12:25:43.64 [12912:12400:1130/122543.640:ERROR:device_event_log_impl.cc(208)] [12:25:43.640] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 30, 2020 12:25:58.29 [12948:12224:1130/122558.297:ERROR:device_event_log_impl.cc(208)] [12:25:58.298] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 30, 2020 12:35:46.85 [1130/123546.852:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+11월 30, 2020 21:15:11.88 NEW SESSION
+11월 30, 2020 21:15:11.88 [5204:9028:1130/211511.883:ERROR:device_event_log_impl.cc(208)] [21:15:11.884] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 30, 2020 21:25:04.47 [1130/212504.469:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+11월 30, 2020 21:31:55.60 [12044:6580:1130/213155.602:ERROR:device_event_log_impl.cc(208)] [21:31:55.601] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 30, 2020 21:42:16.20 [2004:7672:1130/214216.208:ERROR:device_event_log_impl.cc(208)] [21:42:16.208] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+11월 30, 2020 21:46:24.99 [1092:7992:1130/214624.990:ERROR:device_event_log_impl.cc(208)] [21:46:24.990] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+12월 01, 2020 08:57:15.67 NEW SESSION
+12월 01, 2020 08:57:15.67 [3336:6644:1201/085715.672:ERROR:device_event_log_impl.cc(208)] [08:57:15.672] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+12월 01, 2020 08:59:16.22 NEW SESSION
+12월 01, 2020 08:59:16.22 [4856:8264:1201/085916.219:ERROR:device_event_log_impl.cc(208)] [08:59:16.220] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+12월 01, 2020 09:01:26.82 NEW SESSION
+12월 01, 2020 09:01:26.82 [1420:2372:1201/090126.822:ERROR:device_event_log_impl.cc(208)] [09:01:26.823] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 01, 2020 09:05:14.61 [11220:660:1201/090514.612:ERROR:device_event_log_impl.cc(208)] [09:05:14.613] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 01, 2020 09:15:02.90 [1201/091502.906:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 01, 2020 10:18:54.91 [11220:660:1201/101854.918:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 01, 2020 10:19:24.53 [11220:660:1201/101924.532:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+12월 01, 2020 20:31:35.37 NEW SESSION
+12월 01, 2020 20:31:35.37 [8260:11364:1201/203135.356:ERROR:device_event_log_impl.cc(208)] [20:31:35.355] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 01, 2020 20:41:24.93 [1201/204124.938:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+12월 01, 2020 21:01:14.01 NEW SESSION
+12월 01, 2020 21:01:14.01 [12000:2820:1201/210114.016:ERROR:device_event_log_impl.cc(208)] [21:01:14.016] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+12월 02, 2020 09:09:57.89 NEW SESSION
+12월 02, 2020 09:09:57.89 [2544:8916:1202/090957.889:ERROR:device_event_log_impl.cc(208)] [09:09:57.889] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 02, 2020 09:19:54.80 [1202/091954.806:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 02, 2020 10:09:57.18 [2544:8916:1202/100957.185:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 02, 2020 10:13:06.43 [2544:8916:1202/101306.435:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 02, 2020 11:37:45.26 [2544:8916:1202/113745.269:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.435 s for first_image_paint 0.419 s
+12월 02, 2020 11:37:46.28 [2544:8916:1202/113746.281:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.435 s for first_image_paint 0.419 s
+12월 02, 2020 11:37:47.29 [2544:8916:1202/113747.298:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.435 s for first_image_paint 0.419 s
+12월 02, 2020 11:37:48.49 [2544:8916:1202/113748.495:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.435 s for first_image_paint 0.419 s
+12월 02, 2020 11:38:17.68 [2544:8916:1202/113817.688:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.435 s for first_image_paint 0.419 s
+12월 02, 2020 11:38:18.64 [2544:8916:1202/113818.642:ERROR:page_load_metrics_update_dispatcher.cc(165)] Invalid first_paint 0.435 s for first_image_paint 0.419 s
+
+12월 02, 2020 21:30:49.30 NEW SESSION
+12월 02, 2020 21:30:49.30 [9112:12348:1202/213049.296:ERROR:device_event_log_impl.cc(208)] [21:30:49.296] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 02, 2020 21:40:41.83 [1202/214041.831:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+12월 03, 2020 08:54:23.83 NEW SESSION
+12월 03, 2020 08:54:23.83 [5596:9980:1203/085423.832:ERROR:device_event_log_impl.cc(208)] [08:54:23.832] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 03, 2020 09:04:12.74 [1203/090412.745:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 03, 2020 09:06:23.59 [12696:6428:1203/090623.592:ERROR:device_event_log_impl.cc(208)] [09:06:23.592] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 03, 2020 09:25:06.60 [7464:13080:1203/092506.609:ERROR:device_event_log_impl.cc(208)] [09:25:06.610] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 03, 2020 09:35:00.10 [1203/093500.103:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 03, 2020 12:18:59.76 [7464:13080:1203/121859.765:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:25:23.23 [7464:13080:1203/122523.235:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:40:39.37 [7464:13080:1203/124039.375:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:40:39.80 [7464:13080:1203/124039.809:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:40:48.18 [7464:13080:1203/124048.180:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:40:48.44 [7464:13080:1203/124048.447:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:40:48.86 [7464:13080:1203/124048.862:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:40:49.27 [7464:13080:1203/124049.270:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 03, 2020 12:41:42.06 [7464:13080:1203/124142.063:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+12월 03, 2020 20:06:20.76 NEW SESSION
+12월 03, 2020 20:06:20.76 [10384:10636:1203/200620.714:ERROR:device_event_log_impl.cc(208)] [20:06:20.713] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+12월 04, 2020 09:24:12.61 NEW SESSION
+12월 04, 2020 09:24:12.61 [7496:8360:1204/092412.610:ERROR:device_event_log_impl.cc(208)] [09:24:12.610] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 04, 2020 09:25:38.13 [4748:8868:1204/092538.139:ERROR:device_event_log_impl.cc(208)] [09:25:38.138] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 04, 2020 09:35:32.71 [1204/093532.713:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 04, 2020 10:11:42.02 [4748:8868:1204/101142.021:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:05:38.21 [8360:9824:1204/120538.219:ERROR:device_event_log_impl.cc(208)] [12:05:38.220] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 04, 2020 12:15:32.79 [1204/121532.790:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 04, 2020 12:19:51.26 [8360:9824:1204/121951.263:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:19:51.87 [8360:9824:1204/121951.874:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:41:06.89 [8360:9824:1204/124106.899:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:41:07.99 [8360:9824:1204/124107.993:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:46:33.29 [8360:9824:1204/124633.296:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:46:33.46 [8360:9824:1204/124633.463:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:46:33.63 [8360:9824:1204/124633.631:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 04, 2020 12:46:35.13 [8360:9824:1204/124635.135:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+12월 04, 2020 20:31:24.53 NEW SESSION
+12월 04, 2020 20:31:24.53 [6104:6868:1204/203124.522:ERROR:device_event_log_impl.cc(208)] [20:31:24.522] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+12월 07, 2020 08:50:29.97 NEW SESSION
+12월 07, 2020 08:50:29.97 [9072:5388:1207/085029.964:ERROR:device_event_log_impl.cc(208)] [08:50:29.963] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+
+12월 08, 2020 09:06:51.61 NEW SESSION
+12월 08, 2020 09:06:51.61 [9768:11868:1208/090651.615:ERROR:device_event_log_impl.cc(208)] [09:06:51.615] Bluetooth: bluetooth_adapter_winrt.cc:1076 Getting Default Adapter failed.
+12월 08, 2020 09:16:43.64 [1208/091643.638:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 08, 2020 09:51:00.34 [9768:11868:1208/095100.349:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 08, 2020 12:13:29.29 [9768:11868:1208/121329.290:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 08, 2020 12:25:53.72 [9768:11868:1208/122553.725:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 08, 2020 12:25:53.88 [9768:11868:1208/122553.882:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+12월 10, 2020 20:49:37.67 NEW SESSION
+12월 10, 2020 20:49:37.67 [12740:13004:1210/204937.669:ERROR:device_event_log_impl.cc(211)] [20:49:37.669] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+12월 11, 2020 09:07:02.54 NEW SESSION
+12월 11, 2020 09:07:02.54 [5880:6792:1211/090702.531:ERROR:device_event_log_impl.cc(211)] [09:07:02.531] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 11, 2020 09:13:12.36 [5880:6792:1211/091312.366:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 09:14:26.44 [5880:6792:1211/091426.445:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'selectedTreeElement' of null", source:  (0)
+12월 11, 2020 09:14:27.39 [5880:6792:1211/091427.393:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 09:14:27.41 [5880:6792:1211/091427.413:ERROR:CONSOLE(0)] "TypeError: Cannot read property '__widget' of null", source:  (0)
+12월 11, 2020 09:16:52.57 [1211/091652.573:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 11, 2020 10:32:10.00 [5880:6792:1211/103210.000:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'selectedTreeElement' of null", source:  (0)
+12월 11, 2020 10:32:10.10 [5880:6792:1211/103210.107:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:10.21 [5880:6792:1211/103210.215:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:10.31 [5880:6792:1211/103210.319:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:10.43 [5880:6792:1211/103210.430:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:10.54 [5880:6792:1211/103210.549:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:10.66 [5880:6792:1211/103210.666:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:10.76 [5880:6792:1211/103210.768:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:10.88 [5880:6792:1211/103210.882:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:32:11.01 [5880:6792:1211/103211.013:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:05.96 [5880:6792:1211/103305.966:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'selectedTreeElement' of null", source:  (0)
+12월 11, 2020 10:33:06.08 [5880:6792:1211/103306.082:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:06.19 [5880:6792:1211/103306.189:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:06.30 [5880:6792:1211/103306.303:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:06.47 [5880:6792:1211/103306.470:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:06.59 [5880:6792:1211/103306.591:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:06.70 [5880:6792:1211/103306.705:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:06.81 [5880:6792:1211/103306.811:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:06.91 [5880:6792:1211/103306.919:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:08.40 [5880:6792:1211/103308.406:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:08.52 [5880:6792:1211/103308.528:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:08.69 [5880:6792:1211/103308.699:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:08.81 [5880:6792:1211/103308.815:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:08.92 [5880:6792:1211/103308.921:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.04 [5880:6792:1211/103309.042:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.16 [5880:6792:1211/103309.160:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.32 [5880:6792:1211/103309.327:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.48 [5880:6792:1211/103309.481:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.58 [5880:6792:1211/103309.583:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.70 [5880:6792:1211/103309.703:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.81 [5880:6792:1211/103309.812:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:09.91 [5880:6792:1211/103309.919:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.06 [5880:6792:1211/103310.061:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.23 [5880:6792:1211/103310.231:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.33 [5880:6792:1211/103310.336:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.44 [5880:6792:1211/103310.447:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.55 [5880:6792:1211/103310.553:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.69 [5880:6792:1211/103310.699:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.83 [5880:6792:1211/103310.831:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:10.93 [5880:6792:1211/103310.936:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.04 [5880:6792:1211/103311.047:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.15 [5880:6792:1211/103311.151:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.29 [5880:6792:1211/103311.295:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.40 [5880:6792:1211/103311.400:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.50 [5880:6792:1211/103311.505:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.61 [5880:6792:1211/103311.616:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.76 [5880:6792:1211/103311.760:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.86 [5880:6792:1211/103311.865:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:11.96 [5880:6792:1211/103311.968:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:12.07 [5880:6792:1211/103312.078:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:12.19 [5880:6792:1211/103312.193:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:12.29 [5880:6792:1211/103312.299:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:12.41 [5880:6792:1211/103312.410:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:12.52 [5880:6792:1211/103312.521:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:12.63 [5880:6792:1211/103312.630:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.02 [5880:6792:1211/103313.023:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.14 [5880:6792:1211/103313.145:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.24 [5880:6792:1211/103313.247:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.36 [5880:6792:1211/103313.367:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.47 [5880:6792:1211/103313.479:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.61 [5880:6792:1211/103313.612:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.71 [5880:6792:1211/103313.719:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.82 [5880:6792:1211/103313.829:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:13.93 [5880:6792:1211/103313.935:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:14.04 [5880:6792:1211/103314.048:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:14.15 [5880:6792:1211/103314.151:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:14.26 [5880:6792:1211/103314.262:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:14.36 [5880:6792:1211/103314.367:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:14.49 [5880:6792:1211/103314.496:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:14.64 [5880:6792:1211/103314.645:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:14.75 [5880:6792:1211/103314.752:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:16.85 [5880:6792:1211/103316.855:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:19.69 [5880:6792:1211/103319.692:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:19.80 [5880:6792:1211/103319.801:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:19.90 [5880:6792:1211/103319.903:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:20.11 [5880:6792:1211/103320.117:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:20.22 [5880:6792:1211/103320.229:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:20.33 [5880:6792:1211/103320.330:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:20.43 [5880:6792:1211/103320.431:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:33:20.53 [5880:6792:1211/103320.537:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:05.59 [5880:6792:1211/103405.599:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:06.24 [5880:6792:1211/103406.249:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:09.18 [5880:6792:1211/103409.179:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:10.24 [5880:6792:1211/103410.247:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:20.04 [5880:6792:1211/103420.049:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:20.38 [5880:6792:1211/103420.384:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:21.24 [5880:6792:1211/103421.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:22.24 [5880:6792:1211/103422.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:23.64 [5880:6792:1211/103423.648:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:24.26 [5880:6792:1211/103424.268:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:49.19 [5880:6792:1211/103449.191:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:50.24 [5880:6792:1211/103450.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:53.20 [5880:6792:1211/103453.201:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:54.24 [5880:6792:1211/103454.246:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:54.42 [5880:6792:1211/103454.421:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:34:55.26 [5880:6792:1211/103455.266:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:03.42 [5880:6792:1211/103503.420:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:04.24 [5880:6792:1211/103504.247:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:05.24 [5880:6792:1211/103505.248:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:06.20 [5880:6792:1211/103506.201:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:07.24 [5880:6792:1211/103507.247:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:11.76 [5880:6792:1211/103511.767:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:12.24 [5880:6792:1211/103512.246:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:14.17 [5880:6792:1211/103514.173:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:15.24 [5880:6792:1211/103515.247:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:21.19 [5880:6792:1211/103521.199:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:22.24 [5880:6792:1211/103522.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:26.24 [5880:6792:1211/103526.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:27.24 [5880:6792:1211/103527.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:29.18 [5880:6792:1211/103529.187:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:30.24 [5880:6792:1211/103530.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:33.12 [5880:6792:1211/103533.128:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:34.24 [5880:6792:1211/103534.245:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:35.24 [5880:6792:1211/103535.246:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:42.33 [5880:6792:1211/103542.336:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 10:35:45.69 [5880:6792:1211/103545.695:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:27:10.43 [5880:6792:1211/122710.435:ERROR:device_event_log_impl.cc(211)] [12:27:10.436] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+12월 11, 2020 12:40:56.02 [5880:6792:1211/124056.026:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:40:56.26 [5880:6792:1211/124056.263:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:40:57.82 [5880:6792:1211/124057.821:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:40:58.26 [5880:6792:1211/124058.261:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:40:59.26 [5880:6792:1211/124059.261:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:41:00.26 [5880:6792:1211/124100.263:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:41:01.26 [5880:6792:1211/124101.264:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:41:02.26 [5880:6792:1211/124102.266:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 12:41:03.26 [5880:6792:1211/124103.263:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'expanded' of null", source:  (0)
+12월 11, 2020 14:27:09.36 [5880:6792:1211/142709.365:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 14:57:00.36 [5880:6792:1211/145700.368:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 14:57:07.37 [5880:6792:1211/145707.377:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 14:57:17.38 [5880:6792:1211/145717.383:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 15:16:25.36 [5880:6792:1211/151625.361:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 15:46:12.40 [5880:6792:1211/154612.405:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 16:57:00.37 [5880:6792:1211/165700.373:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 16:57:41.38 [5880:6792:1211/165741.382:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 17:05:59.29 [5880:6792:1211/170559.290:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 17:52:43.35 [5880:6792:1211/175243.354:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 11, 2020 18:13:45.37 [5880:6792:1211/181345.373:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+12월 12, 2020 10:14:41.61 NEW SESSION
+12월 12, 2020 10:14:41.61 [9628:13336:1212/101441.616:ERROR:device_event_log_impl.cc(211)] [10:14:41.616] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 12, 2020 10:24:33.49 [1212/102433.495:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+
+12월 12, 2020 10:30:34.00 NEW SESSION
+12월 12, 2020 10:30:34.00 [7144:6528:1212/103034.003:ERROR:device_event_log_impl.cc(211)] [10:30:34.003] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 12, 2020 10:40:31.28 [1212/104031.285:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 12, 2020 11:09:57.88 [12456:13592:1212/110957.884:ERROR:device_event_log_impl.cc(211)] [11:09:57.884] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 12, 2020 11:10:29.12 [9760:5828:1212/111029.128:ERROR:device_event_log_impl.cc(211)] [11:10:29.127] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 12, 2020 11:20:24.64 [1212/112024.644:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 12, 2020 11:33:48.15 [9760:5828:1212/113348.153:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:33:49.28 [9760:5828:1212/113349.282:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:33:50.90 [9760:5828:1212/113350.905:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:34:30.32 [9760:5828:1212/113430.324:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:34:46.53 [9760:5828:1212/113446.532:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.143 s for first_image_paint 0.126 s
+12월 12, 2020 11:40:35.38 [9760:5828:1212/114035.384:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.195 s for first_image_paint 0.179 s
+12월 12, 2020 11:41:00.71 [9760:5828:1212/114100.715:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.143 s for first_image_paint 0.127 s
+12월 12, 2020 11:41:05.04 [9760:5828:1212/114105.042:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.143 s for first_image_paint 0.127 s
+12월 12, 2020 11:41:28.86 [9760:5828:1212/114128.867:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.143 s for first_image_paint 0.127 s
+12월 12, 2020 11:42:01.02 [9760:5828:1212/114201.025:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.189 s for first_image_paint 0.178 s
+12월 12, 2020 11:42:09.21 [9760:5828:1212/114209.218:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.189 s for first_image_paint 0.178 s
+12월 12, 2020 11:42:10.22 [9760:5828:1212/114210.223:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.189 s for first_image_paint 0.178 s
+12월 12, 2020 11:42:33.41 [9760:5828:1212/114233.409:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.189 s for first_image_paint 0.178 s
+12월 12, 2020 11:49:31.68 [9760:5828:1212/114931.688:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:49:32.90 [9760:5828:1212/114932.899:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:49:34.34 [9760:5828:1212/114934.342:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:49:39.65 [9760:5828:1212/114939.658:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:49:51.68 [9760:5828:1212/114951.683:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.244 s for first_image_paint 0.228 s
+12월 12, 2020 11:50:43.13 [9760:5828:1212/115043.130:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.218 s for first_image_paint 0.202 s
+12월 12, 2020 11:50:44.27 [9760:5828:1212/115044.274:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.218 s for first_image_paint 0.202 s
+12월 12, 2020 11:50:52.92 [9760:5828:1212/115052.920:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.218 s for first_image_paint 0.202 s
+12월 12, 2020 11:51:22.08 [9760:5828:1212/115122.088:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+12월 12, 2020 11:51:23.09 [9760:5828:1212/115123.090:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+12월 12, 2020 11:51:35.87 [9760:5828:1212/115135.874:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.146 s for first_image_paint 0.13 s
+12월 12, 2020 11:54:52.78 [9760:5828:1212/115452.782:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.143 s for first_image_paint 0.126 s
+12월 12, 2020 12:02:43.03 [9760:5828:1212/120243.031:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 12:02:44.90 [9760:5828:1212/120244.902:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 12:06:07.54 [9760:5828:1212/120607.543:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 12:06:45.51 [9760:5828:1212/120645.511:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 12:36:29.83 [9760:5828:1212/123629.831:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 12:40:39.00 [9760:8256:1212/124039.000:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 12, 2020 12:40:59.49 [9760:8256:1212/124059.491:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 12, 2020 12:41:48.90 [9760:8256:1212/124148.902:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 12, 2020 12:43:20.57 [9760:8256:1212/124320.579:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 12, 2020 12:46:53.77 [9760:8256:1212/124653.772:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+12월 12, 2020 12:52:54.95 [9760:8256:1212/125254.950:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+12월 12, 2020 13:07:43.47 NEW SESSION
+12월 12, 2020 13:07:43.47 [5592:8180:1212/130743.473:ERROR:device_event_log_impl.cc(211)] [13:07:43.472] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 12, 2020 13:17:37.01 [1212/131737.009:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 12, 2020 13:21:51.32 [5592:8180:1212/132151.328:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:26:38.20 [5592:8180:1212/132638.202:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:27:53.30 [5592:8180:1212/132753.300:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:34:28.03 [5592:8180:1212/133428.030:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:35:23.18 [5592:8180:1212/133523.189:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:36:55.88 [5592:8180:1212/133655.883:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:38:58.96 [5592:8180:1212/133858.965:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:39:00.05 [5592:8180:1212/133900.051:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:39:51.69 [5592:8180:1212/133951.696:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:40:00.26 [5592:8180:1212/134000.259:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:40:47.96 [5592:8180:1212/134047.961:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:40:56.08 [5592:8180:1212/134056.088:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:41:11.49 [5592:8180:1212/134111.498:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:41:14.61 [5592:8180:1212/134114.616:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:48:49.25 [5592:8180:1212/134849.256:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:49:26.83 [5592:8180:1212/134926.837:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:49:26.98 [5592:8180:1212/134926.985:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:49:45.29 [5592:8180:1212/134945.290:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:53:45.88 [5592:8180:1212/135345.888:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 13:55:15.28 [5592:8180:1212/135515.287:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 14:02:23.76 [5592:8180:1212/140223.761:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 14:20:26.48 [5592:8180:1212/142026.488:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 14:20:27.46 [5592:8180:1212/142027.469:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 14:20:27.76 [5592:8180:1212/142027.767:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 14:20:38.13 [5592:8180:1212/142038.138:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 14:56:53.57 [5592:8180:1212/145653.574:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 14:57:57.72 [5592:8180:1212/145757.728:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:23:56.52 [5592:8180:1212/152356.526:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:23:56.72 [5592:8180:1212/152356.720:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:24:32.57 [5592:8180:1212/152432.571:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:41:19.04 [5592:8180:1212/154119.048:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:41:19.22 [5592:8180:1212/154119.220:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:47:28.36 [5592:8180:1212/154728.364:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:50:16.53 [5592:8180:1212/155016.534:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:50:57.82 [5592:8180:1212/155057.826:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:59:57.57 [5592:8180:1212/155957.572:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 15:59:57.82 [5592:8180:1212/155957.827:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:00:02.49 [5592:8180:1212/160002.498:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:00:50.06 [5592:8180:1212/160050.067:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:01:43.17 [5592:8180:1212/160143.178:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:02:45.07 [5592:8180:1212/160245.077:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:03:06.15 [5592:8180:1212/160306.159:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:03:06.44 [5592:8180:1212/160306.445:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:03:43.15 [5592:8180:1212/160343.151:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:12:00.42 [5592:8180:1212/161200.429:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:15:57.15 [5592:8180:1212/161557.157:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:21:34.53 [5592:8180:1212/162134.530:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:22:59.30 [5592:8180:1212/162259.307:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:28:27.90 [5592:8180:1212/162827.905:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:29:47.24 [5592:8180:1212/162947.247:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:35:51.52 [5592:8180:1212/163551.527:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:37:21.97 [5592:8180:1212/163721.976:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:37:22.26 [5592:8180:1212/163722.266:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:45:00.36 [5592:8180:1212/164500.365:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:51:52.78 [5592:8180:1212/165152.789:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:51:54.63 [5592:8180:1212/165154.635:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 12, 2020 16:52:46.93 [5592:8180:1212/165246.934:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+12월 14, 2020 09:18:22.00 NEW SESSION
+12월 14, 2020 09:18:22.00 [11780:144:1214/091822.004:ERROR:device_event_log_impl.cc(211)] [09:18:22.003] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 14, 2020 09:28:09.42 [11780:144:1214/092809.423:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:28:12.58 [11780:144:1214/092812.587:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:28:12.84 [1214/092812.841:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 14, 2020 09:28:29.27 [11780:144:1214/092829.271:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:28:44.21 [11780:144:1214/092844.217:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:28:44.39 [11780:144:1214/092844.397:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:44:43.36 [11780:144:1214/094443.360:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:45:00.41 [11780:144:1214/094500.419:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:45:39.18 [11780:144:1214/094539.185:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:45:39.91 [11780:144:1214/094539.918:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 09:55:22.37 [11780:144:1214/095522.377:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 10:14:55.91 [11780:144:1214/101455.915:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 10:20:08.36 [11780:144:1214/102008.363:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 10:23:46.90 [11780:144:1214/102346.903:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:30:22.87 [11780:144:1214/113022.873:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:35:25.62 [11780:144:1214/113525.626:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:35:25.86 [11780:144:1214/113525.861:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:36:02.41 [11780:144:1214/113602.419:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:40:00.15 [11780:144:1214/114000.154:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:40:58.21 [11780:144:1214/114058.211:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:40:58.55 [11780:144:1214/114058.558:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:44:03.76 [11780:144:1214/114403.762:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 11:44:03.92 [11780:144:1214/114403.927:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:10:20.72 [11780:144:1214/141020.723:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:11:25.30 [11780:144:1214/141125.302:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:11:25.44 [11780:144:1214/141125.445:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:11:39.50 [11780:144:1214/141139.504:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:14:57.32 [11780:144:1214/141457.327:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:14:57.47 [11780:144:1214/141457.470:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:19:49.87 [11780:144:1214/141949.873:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:20:44.98 [11780:144:1214/142044.985:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:20:45.16 [11780:144:1214/142045.160:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:42:59.73 [11780:144:1214/144259.737:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:42:59.89 [11780:144:1214/144259.895:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:43:00.45 [11780:144:1214/144300.451:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:43:54.59 [11780:144:1214/144354.597:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:46:12.15 [11780:144:1214/144612.154:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:52:11.44 [11780:144:1214/145211.449:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:52:47.29 [11780:144:1214/145247.297:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 14:54:19.46 [11780:144:1214/145419.464:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:12:40.83 [11780:144:1214/151240.833:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:13:05.85 [11780:144:1214/151305.853:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:13:33.72 [11780:144:1214/151333.720:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:13:34.06 [11780:144:1214/151334.067:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:14:06.70 [11780:144:1214/151406.708:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:14:33.69 [11780:144:1214/151433.698:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:24:12.27 [11780:144:1214/152412.274:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint (unset) for first_image_paint 0.178 s
+12월 14, 2020 15:24:13.61 [11780:144:1214/152413.616:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.174 s for first_image_paint 0.161 s
+12월 14, 2020 15:31:06.52 [11780:144:1214/153106.523:ERROR:page_load_metrics_update_dispatcher.cc(169)] Invalid first_paint 0.174 s for first_image_paint 0.161 s
+12월 14, 2020 15:34:25.11 [11780:144:1214/153425.119:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:34:25.27 [11780:144:1214/153425.278:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:34:25.45 [11780:144:1214/153425.457:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:34:54.84 [11780:144:1214/153454.845:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:34:54.98 [11780:144:1214/153454.983:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:35:48.83 [11780:144:1214/153548.839:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 14, 2020 15:36:00.81 [11780:144:1214/153600.809:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+
+12월 15, 2020 20:20:35.39 NEW SESSION
+12월 15, 2020 20:20:35.39 [10440:15220:1215/202035.389:ERROR:device_event_log_impl.cc(211)] [20:20:35.389] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+12월 16, 2020 09:04:55.75 NEW SESSION
+12월 16, 2020 09:04:55.75 [8328:5168:1216/090455.749:ERROR:device_event_log_impl.cc(211)] [09:04:55.750] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 16, 2020 09:14:50.57 [1216/091450.573:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 16, 2020 14:14:29.09 [8328:5168:1216/141429.090:ERROR:device_event_log_impl.cc(211)] [14:14:29.089] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+12월 16, 2020 16:42:48.74 [8328:5168:1216/164248.745:ERROR:device_event_log_impl.cc(211)] [16:42:48.746] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+12월 16, 2020 18:23:33.34 [8328:5168:1216/182333.342:ERROR:device_event_log_impl.cc(211)] [18:23:33.341] USB: usb_service_win.cc:258 Failed to get device driver name: 요소가 없습니다. (0x490)
+
+12월 17, 2020 09:14:09.10 NEW SESSION
+12월 17, 2020 09:14:09.10 [4924:4472:1217/091409.097:ERROR:device_event_log_impl.cc(211)] [09:14:09.097] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+12월 17, 2020 09:23:57.00 [1217/092357.002:ERROR:directory_reader_win.cc(43)] FindFirstFile: 지정된 경로를 찾을 수 없습니다. (0x3)
+12월 17, 2020 10:28:50.95 [4924:4472:1217/102850.954:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 17, 2020 12:36:53.96 [4924:4472:1217/123653.968:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 17, 2020 13:41:39.95 [4924:4472:1217/134139.952:ERROR:CONSOLE(0)] "TypeError: Cannot read property 'isAnonymousInlineStyleSheet' of null", source:  (0)
+12월 17, 2020 18:10:55.55 [4924:14968:1217/181055.557:ERROR:mcs_client.cc(755)] Received close command, resetting connection.
+12월 17, 2020 18:29:01.90 [4924:14968:1217/182901.901:ERROR:mcs_client.cc(755)] Received close command, resetting connection.

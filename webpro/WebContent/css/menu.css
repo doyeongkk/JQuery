@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+
+	
+div{	
+float: left;
+/* border: 1px solid gray; */
+width: 300px;
+height: 300px;
+margin: 10px;
+text-align: center;
+
+}
+
+img{
+   width: 200px;
+   height: 200px;
+ /*   border: 1px solid gray; */
+}
+
+h1{
+	font-size: 20px;
+}
+h2{
+	font-size: 13px;
+}
+#example2.tr{
+	
+	height: 40px;
+}
+
+form{
+ display: inline-block;
+ width: 500px;
+ border: 1px solid pink;
+ padding: 10px;
+ margin: 10px;
+}
+label{
+  display: inline-block;
+  width: 200px;
+  height: 30px;
+} 

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel ="stylesheet" href="../css/public.css">
+<style>
+</style>
+
+<script>
+  function proc1(){
+	 ulist = document.getElementsByTagName("ul")[0];
+	 listitem = ulist.getElementsByTagName('li');
+	 
+	 res = "";
+	 for(i=0; i<listitem.length; i++){
+		 res += listitem[i].firstChild.data + "<br>"
+	 }
+	 document.getElementById('result1').innerHTML = res; 
+	  
+  }
+
+</script>
+</head>
+<body>
+
+<div class="box">
+		<h3>Dom Test</h3>
+	    UL요소와 자식요소에 접근해서 값을  가져온다<br>
+    <ul>
+        <li>홍길동</li>
+        <li>개나리</li>
+        <li>진달래</li>
+        <li>수선화</li>
+        <li>라일락</li>
+    </ul> 
+		<input type="button" value="확인" onclick="proc1()"> <br>
+		<br>
+		<div id="result1"></div>
+		<br>
+	</div>
+</body>
+</html>

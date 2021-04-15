@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="../css/public.css">
+<style>
+
+</style>
+<script >
+function proc1() {
+	
+	su1= parseInt(prompt("첫번 째 숫자를 입력하세요."));
+	su2= parseInt(prompt("두번 째 숫자를 입력하세요."));
+	oper = prompt("연산자를 입력하세요");
+	
+	res = "su1 : " + su1 + "<br>";
+	res += "su2 : " + su2 + "<br>";
+	res += "연산자 : " + oper + "<br>";
+
+	switch (oper) {
+	case "+": 
+		calc = su1 + su2;
+		break;
+	case "-": 
+		calc = su1 - su2;
+		break;
+	case "*": 
+		calc = su1 * su2;
+		break;
+	case "/": 
+		calc = su1 / su2;
+		break;
+	}
+ 	//res += "결과 : " + su1 + " " + oper + " " + su2 + "=" + calc;
+//백틱
+	res += `결과  : ${su1} ${oper} ${su2} = ${calc}`;
+	result = document.getElementById("result");
+	result.innerHTML = res;
+	result.style.fontSize ="1.5em";
+}
+
+function proc2() {
+	// 입력
+		jumsu = prompt("점수를 입력 ", "0~100사이");
+		jumsu1 = parseInt(jumsu /10);
+		
+	// 비교 - switch
+		switch (jumsu1) {
+		case 10 :
+			res ='A';
+			break;
+		case 9 :
+			res ='A';
+			break;
+		case 8 :
+			res ='B';
+			break;
+		case 7 :
+			res ='C';
+			break;
+		case 6 :
+			res ='D';
+			break;
+		default:
+			res ='F'
+			break;
+		}
+	// 출력
+		result = document.getElementById("result2");
+		result.innerHTML += // `점수:  ${jumsu}<br> 학점 : ${res}  `;
+		"점수 : " + jumsu + " " + "학점 : " + res ;
+}
+
+function proc3(){
+	// 입력1
+	   in1 = prompt("첫번째 사람")
+
+	
+	// 입력2
+	   in2 = prompt("두 번째 사람")
+	   
+	   
+	 //  res = "첫번째 사람 : " + in1 + "<br>"
+	 res = ` 첫번째 사람: ${in1} <br>`;
+	 res += ` 두번째 사람: ${in2} <br> 결과: `;
+	 
+	// 승자 비교 
+	if(in1 == in2){
+		res += "비김";
+		
+	}else if(in1 == "가위" && in2 == "보" || 
+			in1 =="바위" && in2 == "가위" ||
+			in1 == "보" && in2 =="바위"){
+		res += "첫번째 사람 이김";
+		
+	}else{
+		res += "두번 째 사람 이김 "
+	}
+	
+	//출력
+	result3 = document.getElementById("result3");
+	result3.innerHTML = res;	
+}
+
+
+
+
+</script>
+</head>
+<body>
+<div class="box">
+<h3>두 수 연산하기</h3>
+  수1, 수2를 입력 - prompt()<br>
+  연산자 입력<br>
+  연산자에 따라 두 수를 계산 한다. <br><br>
+<input type="button" value="확인" onclick="proc1()"><br><br>
+<div id="result"></div>
+<br>
+</div>
+<br>
+<div class="box">
+<h3>학점 구하기</h3>
+0~100사이의 값을 입력 - prompt()<br>
+학점 구하기<br><br>
+<input type="button" value="확인" onclick="proc2()"><br><br>
+<div id="result2"></div>
+</div>
+
+<div class="box">
+<h3>가위바위보</h3>
+두사람의 가위바위보를 각각 입력 - prompt()<br>
+승자를 출력하기<br><br>
+<input type="button" value="확인" onclick="proc3()"><br><br>
+<div id="result3"></div>
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

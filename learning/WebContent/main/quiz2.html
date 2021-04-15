@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel ="stylesheet" href="../css/public.css">
+<script src="../js/jquery-3.5.1.min.js"></script>
+<style>
+body{
+ margin-left: 100px;
+
+ }
+
+h1{
+text-align: center;
+
+
+}
+
+</style>
+
+</head>
+<body>
+
+
+
+<script type=text/javascript>
+function showResults() {
+  var numRight = 0;
+  if (document.exf1.q1[document.exf1.q1r.value].checked) numRight++;
+  if (document.exf1.q2[document.exf1.q2r.value].checked) numRight++;
+  if (document.exf1.q3[document.exf1.q3r.value].checked) numRight++;
+  if (document.exf1.q4[document.exf1.q4r.value].checked) numRight++;
+  if (document.exf1.q5[document.exf1.q5r.value].checked) numRight++;
+  if (document.exf1.q6[document.exf1.q6r.value].checked) numRight++;
+  if (document.exf1.q7[document.exf1.q7r.value].checked) numRight++;
+  if (document.exf1.q8[document.exf1.q8r.value].checked) numRight++;
+  if (document.exf1.q9[document.exf1.q9r.value].checked) numRight++;
+  if (document.exf1.q10[document.exf1.q10r.value].checked) numRight++;
+  
+  document.exf1.score.value = numRight;
+}
+function init() { document.exf1.score.value = ""; }
+</script>
+<form name=exf1>
+
+<h1>자바 <strong>Level Up</strong> 자기 진단 문제</h1>
+
+<BR>
+<BR>
+<BR>
+<B>[문제 1] 다음은 static에 대한 설명이다. 틀린 것은?</B><br>
+    <input type=radio name=q1 value="A" onfocus="init()">1. 멤버 변수와 메서드에 static을 지정할 수 있다.<br>
+    <input type=radio name=q1 value="B" onfocus="init()">2. static 형 변수는 클래스 로딩시에 메모리가 할당되어 프로그램 종료까지 그 영역이 고정된다.<br>
+    <input type=radio name=q1 value="C" onfocus="init()">3. static 메서드 안에 선언되는 변수들은 모두 static 변수가 된다.<br>
+    <input type=radio name=q1 value="D" onfocus="init()">4. static 메서드 안에서는 this나 super를 사용할 수 없다.<br>
+ 
+      <input type=hidden name=q1r value="2">
+<BR><BR>
+<B>[문제 2] 자바에서 메소드 오버로딩에 대한 설명으로 틀린 것은?</B><br>
+    <input type=radio name=q2 value="A" onfocus="init()">1. 동일 클래스 내에서 발생한다.<br>
+    <input type=radio name=q2 value="B" onfocus="init()">2. 매개변수의 형이나 개수가 동일해야 한다.<br>
+    <input type=radio name=q2 value="C" onfocus="init()">3. 다형성을 지원하기 위한 장치이다.<br>
+    <input type=radio name=q2 value="D" onfocus="init()">4. 메소드 이름이 동일해야한다.<br>
+    
+      <input type=hidden name=q2r value="1">
+<BR><BR>
+<B>[문제 3] 다음은 상속에 관한 보기들이다. 옳지 않은 것을 고르시오.</B><br>
+    <input type=radio name=q3 value="A" onfocus="init()">1. 인터페이스 끼리 상속 할 수 있다.<br>
+    <input type=radio name=q3 value="B" onfocus="init()">2. 자바에서는 클래스의 다중 상속을 지원한다.<br>
+    <input type=radio name=q3 value="C" onfocus="init()">3. 인터페이스를 상속받아 클래스를 작성하면 인터페이스의 모든 추상 메소드를 구현한다.<br>
+    <input type=radio name=q3 value="D" onfocus="init()">4. 추상 클래스는 객체를 생성할 수 없다.<br>
+    
+      <input type=hidden name=q3r value="1">
+<BR><BR>
+<B>[문제 4] 다음 보기중 틀린 말을 하는 사람을 고르세요.</B><br>
+    <input type=radio name=q4 value="A" onfocus="init()">1. 철수: 배열은 0부터 시작해<br>
+    <input type=radio name=q4 value="B" onfocus="init()">2. 유리: 자바에선 접근 지정자를 생략해 줄 수 있어<br>
+    <input type=radio name=q4 value="C" onfocus="init()">3. 다연: this()는 반드시 생성자 코드에서만 호출할 수 있어<br>
+    <input type=radio name=q4 value="D" onfocus="init()">4. 혜선: 메소드에서 배열을 리턴할 땐 배열 공간이 리턴 돼<br>
+
+      <input type=hidden name=q4r value="3">
+<BR>
+<BR>
+<B>[문제 5] 다음은 접근지정자의 설명이다. 옳은 것을 고르시오.</B><br>
+    <input type=radio name=q5 value="A" onfocus="init()">1. private 다른 패키지에 있는 클래스엔 접근하지 못하지만 같은 패키지에 있는 클래스에 접근할 수 있다.<br>
+    <input type=radio name=q5 value="B" onfocus="init()">2. public 접근 지정자는 같은 패키지에 있는 클래스는 접근 가능하지만 다른 패키지에 있는 클래스는 접근 하지 못한다.<br>
+    <input type=radio name=q5 value="C" onfocus="init()">3. protected 접근 지정자는 다른 패키지에 있는 서브 클래스에 접근 할 수 있다.<br>
+    <input type=radio name=q5 value="D" onfocus="init()">4. protected 접근 지정자는 다른 패키지에 있는 클래스에 접근 할 수 있다.<br>
+   
+      <input type=hidden name=q5r value="2">
+<BR><br>
+
+
+<B>[문제 6] 자바 문법 퀴즈입니다. String 함수 중 설명이 틀린 것을 고르시오.</B><br>
+    <input type=radio name=q6 value="A" onfocus="init()">1. equal함수는 문자열이 같은지 비교하는 함수이다.<br>
+    <input type=radio name=q6 value="B" onfocus="init()">2. charAt함수는 index번째에 문자를 반환하는 함수이다.<br>
+    <input type=radio name=q6 value="C" onfocus="init()">3. indexOf함수는 지정한 문자가 몇번째 문자열에 있는지 반환하는 함수이다.<br>
+    <input type=radio name=q6 value="D" onfocus="init()">4. toUpperCase함수는 문자열에 대문자를 소문자로 변환하는 함수이다.<br>
+
+      <input type=hidden name=q6r value="3">
+<BR><br>
+
+<B>[문제 7] 다음 보기중 틀린 말을 하는 사람을 고르세요.</B><br>
+    <input type=radio name=q7 value="A" onfocus="init()">1. void setFont(font)->폰트설정<br>
+    <input type=radio name=q7 value="B" onfocus="init()">2. void setBackground(color)->폰트설정<br>
+    <input type=radio name=q7 value="C" onfocus="init()">3. void setForeground(coLor)->불투명성 설정<br>
+    <input type=radio name=q7 value="D" onfocus="init()">4. Font getFont()->폰트 리턴<br>
+
+      <input type=hidden name=q7r value="2">
+<BR><br>
+
+
+<B>[문제 8] Enter 키를 눌렀을때 발생하는 이벤트를 선택하시오.</B><br>
+    <input type=radio name=q8 value="A" onfocus="init()">1. MouseEvent<br>
+    <input type=radio name=q8 value="B" onfocus="init()">2. ActionEvent<br>
+    <input type=radio name=q8 value="C" onfocus="init()">3. KeyEvent<br>
+    <input type=radio name=q8 value="D" onfocus="init()">4. ItemEvent<br>
+
+      <input type=hidden name=q8r value="1">
+<BR><br>
+
+<B>[문제 9] 다음은 마우스 이벤트가 발생하는 경우다. 다음 보기에서 알맞게 짝지어진 것을 고르시오.</B><br>
+    <input type=radio name=q9 value="A" onfocus="init()">1. 눌러진 버튼이 떼어질 때 -> void mouseEntered(MouseEvent e)<br>
+    <input type=radio name=q9 value="B" onfocus="init()">2. 마우스가 컴포넌트에서 내려올때 -> void mouseDragged(MouseEvent e)<br>
+    <input type=radio name=q9 value="C" onfocus="init()">3. 마우스가 움직이는 동안 -> void mouseMoved(MouseEvent e)<br>
+    <input type=radio name=q9 value="D" onfocus="init()">4. 마우스가 컴포넌트 위에 올라갈 때 -> void mouseWhellMoved(MouseWhelEvent e)<br>
+
+      <input type=hidden name=q9r value="2">
+<BR><br>
+
+
+<B>[문제 10] 다음 보기는 클래스와 객체의 관한 설명이다. 옳은 것을 고르시오.</B><br>
+    <input type=radio name=q10 value="A" onfocus="init()">1. 생성자에는 리턴 타입을 지정할 수 없다.<br>
+    <input type=radio name=q10 value="B" onfocus="init()">2. 생성자는 여러개 작성(오버로딩)할 수 없다.<br>
+    <input type=radio name=q10 value="C" onfocus="init()">3. 마우스가 움직이는 동안 -> void mouseMoved(MouseEvent e)<br>
+    <input type=radio name=q10 value="D" onfocus="init()">4. 메소드 오버로딩을 할때는 매개변수의 개수나 타입이 서로 같아야 한다.<br>
+
+      <input type=hidden name=q10r value="0">
+<BR><br>
+
+
+
+
+<!-- 점수 확인 -->
+<input type=button value="점수확인" onclick="showResults()">
+<BR><br>
+귀하의 점수는 10점 만점에 <input type=text name=score value="" style=width:30> 점 입니다.
+</form>
+
+</body>
+</html>

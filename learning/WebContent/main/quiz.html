@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>퀴즈 프로그램 만들기</title>
+</head>
+
+<style>
+body {
+	margin-left: 100px;
+}
+
+p {
+	font-size: 20px;
+}
+</style>
+
+
+
+
+<body>
+
+
+	<h1>자바 Level Up 자기 진단 문제</h1>
+
+	<br>
+	<br>
+	<p>
+		<strong> 1. 다음은 static에 대한 설명이다. 틀린 것은?</strong>
+	</p>
+	<form name="form">
+		<input type="radio" name="answer" value="v1">멤버 변수와 메서드에
+		static을 지정할 수 있다.<br> <input type="radio" name="answer"
+			value="v2">static 형 변수는 클래스 로딩시에 메모리가 할당되어 프로그램 종료까지 그 영역이
+		고정된다.<br> <input type="radio" name="answer" value="v3">static
+		메서드 안에 선언되는 변수들은 모두 static 변수가 된다.<br> <input type="radio"
+			name="answer" value="v4">static 메서드 안에서는 this나 super를 사용할 수
+		없다. <br> <input type="button" name="선택" value="정답확인"
+			onclick="myFunction()">
+	</form>
+	<p id="check"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction() {
+			if (form.answer[2].checked == true)
+				document.getElementById("check").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong> 2. 자바에서 메소드 오버로딩에 대한 설명으로 틀린 것은? </strong>
+	</p>
+	<form name="form1">
+		<input type="radio" name="answer1" value="v5">동일 클래스 내에서 발생한다.<br>
+		<input type="radio" name="answer1" value="v6">매개변수의 형이나 개수가
+		동일해야 한다.<br> <input type="radio" name="answer1" value="v7">다형성을
+		지원하기 위한 장치이다.<br> <input type="radio" name="answer1" value="v8">메소드
+		이름이 동일해야한다. <br> <input type="button" name="선택" value="정답확인"
+			onclick="myFunction1()">
+	</form>
+	<p id="check1"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction1() {
+			if (form1.answer1[1].checked == true)
+				document.getElementById("check1").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check1").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong>3. 다음은 상속에 관한 보기들이다. 옳지 않은 것을 고르시오.</strong>
+	</p>
+	<form name="form2">
+		<input type="radio" name="answer2" value="v9">인터페이스 끼리 상속 할 수
+		있다.<br> <input type="radio" name="answer2" value="v10">자바에서는
+		클래스의 다중 상속을 지원한다.<br> <input type="radio" name="answer2"
+			value="v11">인터페이스를 상속받아 클래스를 작성하면 인터페이스의 모든 추상 메소드를 구현한다.<br>
+		<input type="radio" name="answer2" value="v12">추상 클래스는 객체를 생성할
+		수 없다. <br> <input type="button" name="선택" value="정답확인"
+			onclick="myFunction2()">
+	</form>
+	<p id="check2"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction2() {
+			if (form2.answer2[1].checked == true)
+				document.getElementById("check2").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check2").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong>4. 다음 보기중 틀린 말을 하는 사람을 고르세요.</strong>
+	</p>
+	<form name="form3">
+		<input type="radio" name="answer3" value="v13">철수: 배열은 0부터 시작해<br>
+		<input type="radio" name="answer3" value="v14">유리: 자바에선 접근
+		지정자를 생략해 줄 수 있어<br> <input type="radio" name="answer3"
+			value="v15">다연: this()는 반드시 생성자 코드에서만 호출할 수 있어<br> <input
+			type="radio" name="answer3" value="v16">혜선: 메소드에서 배열을 리턴할 땐
+		배열 공간이 리턴 돼<br> <input type="button" name="선택" value="정답확인"
+			onclick="myFunction3()">
+	</form>
+	<p id="check3"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction3() {
+			if (form3.answer3[3].checked == true)
+				document.getElementById("check3").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check3").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+	<p>
+		<strong>5. 다음은 접근지정자의 설명이다. 옳은 것을 고르시오.</strong>
+	</p>
+	<form name="form4">
+		<input type="radio" name="answer4" value="v17">private 다른 패키지에
+		있는 클래스엔 접근하지 못하지만 같은 패키지에 있는 클래스에 접근할 수 있다.<br> <input
+			type="radio" name="answer4" value="v18">public 접근 지정자는 같은
+		패키지에 있는 클래스는 접근 가능하지만 다른 패키지에 있는 클래스는 접근 하지 못한다.<br> <input
+			type="radio" name="answer4" value="v19">protected 접근 지정자는 다른
+		패키지에 있는 서브 클래스에 접근 할 수 있다.<br> <input type="radio" name="answer4"
+			value="v20">protected 접근 지정자는 다른 패키지에 있는 클래스에 접근 할 수 있다. <br>
+		<input type="button" name="선택" value="정답확인" onclick="myFunction4()">
+	</form>
+	<p id="check4"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction4() {
+			if (form4.answer4[2].checked == true)
+				document.getElementById("check4").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check4").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong>6. 자바 문법 퀴즈입니다. String 함수 중 설명이 틀린 것을 고르시오.</strong>
+	</p>
+	<form name="form5">
+		<input type="radio" name="answer5" value="v21">equal함수는 문자열이
+		같은지 비교하는 함수이다.<br> <input type="radio" name="answer5" value="v22">charAt함수는
+		index번째에 문자를 반환하는 함수이다.<br> <input type="radio" name="answer5"
+			value="v23">indexOf함수는 지정한 문자가 몇번째 문자열에 있는지 반환하는 함수이다.<br>
+		<input type="radio" name="answer5" value="v24">toUpperCase함수는
+		문자열에 대문자를 소문자로 변환하는 함수이다. <br> <input type="button" name="선택"
+			value="정답확인" onclick="myFunction5()">
+	</form>
+	<p id="check5"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction5() {
+			if (form5.answer5[3].checked == true)
+				document.getElementById("check5").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check5").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong>7. 다음은 컴포넌트의 모양과 관련된 메소드이다. 틀린것을 고르시오.</strong>
+	</p>
+	<form name="form6">
+		<input type="radio" name="answer6" value="v25">void
+		setFont(font)->폰트설정<br> <input type="radio" name="answer6"
+			value="v26">void setBackground(color)->폰트설정<br> <input
+			type="radio" name="answer6" value="v27">void
+		setForeground(coLor)->불투명성 설정<br> <input type="radio"
+			name="answer6" value="v28">Font getFont()->폰트 리턴<br> <input
+			type="button" name="선택" value="정답확인" onclick="myFunction6()">
+	</form>
+	<p id="check6"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction6() {
+			if (form6.answer6[2].checked == true)
+				document.getElementById("check6").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check6").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong>8.Enter 키를 눌렀을때 발생하는 이벤트를 선택하시오.</strong>
+	</p>
+	<form name="form7">
+		<input type="radio" name="answer7" value="v29">MouseEvent<br>
+		<input type="radio" name="answer7" value="v30">ActionEvent<br>
+		<input type="radio" name="answer7" value="v31">KeyEvent<br>
+		<input type="radio" name="answer7" value="v32">ItemEvent<br>
+		<input type="button" name="선택" value="정답확인" onclick="myFunction7()">
+	</form>
+	<p id="check7"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction7() {
+			if (form7.answer7[1].checked == true)
+				document.getElementById("check7").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check7").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong>9. 다음은 마우스 이벤트가 발생하는 경우다. 다음 보기에서 알맞게 짝지어진 것을 고르시오.</strong>
+	</p>
+	<form name="form8">
+		<input type="radio" name="answer8" value="v33">눌러진 버튼이 떼어질 때
+		-> void mouseEntered(MouseEvent e)<br> <input type="radio"
+			name="answer8" value="v34">마우스가 컴포넌트에서 내려올때 -> void
+		mouseDragged(MouseEvent e)<br> <input type="radio" name="answer8"
+			value="v35">마우스가 움직이는 동안 -> void mouseMoved(MouseEvent e)<br>
+		<input type="radio" name="answer8" value="v36">마우스가 컴포넌트 위에
+		올라갈 때 -> void mouseWhellMoved(MouseWhelEvent e)<br> <input
+			type="button" name="선택" value="정답확인" onclick="myFunction8()">
+	</form>
+	<p id="check8"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction8() {
+			if (form8.answer8[2].checked == true)
+				document.getElementById("check8").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check8").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+	<p>
+		<strong>10.다음 보기는 클래스와 객체의 관한 설명이다. 옳은 것을 고르시오.</strong>
+	</p>
+	<form name="form9">
+		<input type="radio" name="answer9" value="v37">생성자에는 리턴 타입을
+		지정할 수 없다.<br> <input type="radio" name="answer9" value="v38">생성자는
+		여러개 작성(오버로딩)할 수 없다.<br> <input type="radio" name="answer9"
+			value="v39">메소드 오버로딩을 할때는 매개변수의 개수나 타입이 서로 같아야 한다.<br> <input
+			type="radio" name="answer9" value="v40">static 멤버는 main()메소드가
+		실행할때 생성된다.<br> <input type="button" name="선택" value="정답확인"
+			onclick="myFunction9()">
+	</form>
+	<p id="check9"></p>
+	<hr>
+
+	<script type="text/javascript">
+		function myFunction9() {
+			if (form9.answer9[0].checked == true)
+				document.getElementById("check9").innerHTML = "정답입니다.";
+			else
+				document.getElementById("check9").innerHTML = "오답입니다.";
+		}
+	</script>
+
+
+
+
+
+
+
+</body>
+</html>
+

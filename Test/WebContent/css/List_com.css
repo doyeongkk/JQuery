@@ -1,0 +1,200 @@
+@charset "UTF-8";
+
+body {
+	font: 400 15px/1.8 Lato, sans-serif;
+	min-width : 1500px;
+}
+
+h3, h4, h5 {
+	margin: 10px 0 30px 0;
+	font-size: 20px;
+	color: black;
+}
+
+.container {
+	padding: 80px 120px;
+	height: 800px;
+}
+
+
+#myNavbar {
+	height: 600px;
+}
+
+.navbar{
+	font-family: Montserrat, sans-serif;
+	padding-top: 10px;
+	padding-bottom: 100px;
+	background-color: white;
+	font-size: 15px !important;
+	height: 130px;
+	opacity: 0.9;
+	border: 0;
+}
+
+
+.navbar-nav {
+	margin-right: 30px;
+	float: right;
+	text-align: center;
+	color: black;
+}
+
+.navbar-brand {
+	color: #339900 !important;
+	text-align: center;
+	margin: 5px;
+	font-size: 70px;
+}
+
+
+.mySlides {
+	color: white;
+	font-weight: 400;
+	width: 100%;
+	height: 130px;
+	background: #343838;
+	padding: 1px 40px 10px 320px;
+}
+
+.banner {
+	font-size: 15px;
+	font-family: sans-serif;
+	font-weight: 10px;
+}
+
+#band {
+	margin-top: 135px;
+	height: 1000px;
+}
+
+#left {
+	width: 400px;
+	height: 1000px;
+	float: left;
+/* 	border: 5px solid red; */
+	padding: 20px;
+	padding-left: 200px;
+	background: white;
+	font-size: 1.1em;
+}
+
+#left a:hover {
+	color: gray;
+	font-size: 1.5em;
+	text-decoration: underline;
+}
+
+.com {
+	color: black;
+}
+
+.search {
+	margin-left: 43%;
+	margin-top: 5px;
+	float: left;
+}
+
+#cont {
+	border: 5px solid red;
+	float: left;
+	height: 500px;
+	width: 100%;
+	margin-top: 30px;
+}
+
+.list {
+	position: absolute;
+	float: left;
+	width: 300px;
+	height: 250px;
+	padding-left: 30px;
+}
+
+#center {
+	min-height: 946px;
+	min-width: 51%;
+/* 	border: 5px solid blue; */
+	display: inline-block;
+	float: left;
+}
+
+#reply {
+	border: 5px solid red;
+	float: left;
+	height: auto;
+	min-width: 51%;
+	margin-top: 30px;
+	padding-left: 30px;
+}
+
+#right {
+/* 	border: 5px solid red; */
+	/*  position: absolute; */
+	height: 946px;
+	min-width: 20%;
+	float: left;
+}
+
+footer {
+	float: left;
+	width: 100%;
+	background: #011627;
+	color: white;
+	padding: 10px;
+}
+
+.ul {
+	float: left;
+	margin-left: 70px;
+}
+
+.made {
+	display: inline-block;
+	/* text-align: left; */
+}
+
+#hr {
+	color: black;
+}
+
+#abc {
+	float : right;
+}
+
+#BoardAddform {
+	
+	padding-left: 100px;
+	
+}
+
+/* 게시글 테이블 class 이름 */
+.BList {
+	
+	margin : 30px;
+	
+} 
+.BList td{
+	border-bottom : 1px solid gray;
+	width : 150px;
+	height : 50px;
+	padding-left : 10px;
+}
+.BList th {
+	border-bottom : 3px double black;
+	width : 150px;	
+	padding-left : 10px;
+	font-size: 20px;
+}
+.BList .title {
+	
+	width : 400px;
+	
+}
+.BList .date {
+	width : 200px;
+}
+.BList .ox {
+	width : 50px;
+}
+

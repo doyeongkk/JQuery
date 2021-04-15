@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;kr.or.ddit.member.controller.Memberjoin.java&apos; to &apos;MemberJoin.java&apos;&#x0D;&#x0A;- Original project: &apos;member&apos;&#x0D;&#x0A;- Original element: &apos;kr.or.ddit.member.controller.Memberjoin.java&apos;&#x0D;&#x0A;- Renamed element: &apos;kr.or.ddit.member.controller.MemberJoin.java&apos;" description="Rename compilation unit &apos;Memberjoin.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;kr.or.ddit.member.controller{Memberjoin.java" name="MemberJoin.java" references="false" stamp="1607406734367" version="1.0"/>
+</session>
